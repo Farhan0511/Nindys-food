@@ -1,16 +1,29 @@
-# React + Vite
+# 🍜 Nindy's Food
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Nindy's Food** adalah website landing page sederhana yang dibuat menggunakan **React** dan **TailwindCSS**.  
+Tujuannya untuk menampilkan halaman utama restoran dengan tampilan modern, responsif, dan mudah dikembangkan.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Teknologi yang Digunakan
 
-## React Compiler
+- ⚛️ **React** – Library utama untuk membangun UI  
+- 🎨 **TailwindCSS** – Framework CSS utility-first untuk styling  
+- 🧭 **Vite** – Build tool modern untuk React (fast development)  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💡 Fitur
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Tampilan **Hero Section** dengan teks dan gambar  
+- **Tombol interaktif** “See More...”  
+- Layout **responsif** untuk mobile & desktop  
+- Menggunakan **container** ala Bootstrap dengan utilitas Tailwind  
+
+---
+
+## ⚙️ Cara Menjalankan Proyek
+
+1. **Clone repository**
+   ```bash
+   git clone https://github.com/username/nindys-food.git
